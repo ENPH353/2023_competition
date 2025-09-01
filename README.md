@@ -1,4 +1,4 @@
-# 2023 Fizz Detective competition [IN PROGRESS]
+# 2023 Fizz Detective competition [COMPLETED]
 
 The repository contains the following ROS packages:
 
